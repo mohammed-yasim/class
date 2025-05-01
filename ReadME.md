@@ -1,7 +1,7 @@
-# **Web Technology Webinar: Attendee Handbook**
+# **Web Technology Webinar
 
 **Date:** May 1, 2025
-**Presented by:** [Your Name]
+**Presented by:** Mohammed Yasim
 
 ---
 
